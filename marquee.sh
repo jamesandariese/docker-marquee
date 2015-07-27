@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [ x"$1" =  x ];then
+    cat README.md
+    exit 1
+fi
+
 W=0
 L=1
 while true;do 
