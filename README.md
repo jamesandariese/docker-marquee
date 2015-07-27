@@ -12,4 +12,4 @@ Mop Froth, my inspiration.
 
 `docker run -ti jamesandariese/marquee "MOPAPA, MOFROTH"`
 
-C-q C-p to detach, docker attach to get it back.
+C-p C-q to detach, docker attach to get it back.
